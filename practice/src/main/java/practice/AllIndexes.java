@@ -1,4 +1,4 @@
-package practice;
+package practice.practice.src.main.java.practice;
 
 public class AllIndexes {
 	static void finAllIndexes(String s, char ch) {

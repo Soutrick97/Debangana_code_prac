@@ -1,4 +1,4 @@
-package practice;
+package practice.practice.src.main.java.practice;
 
 public class replaceChar {
 	public static String replaceC(String s, char ch1, char ch2) {

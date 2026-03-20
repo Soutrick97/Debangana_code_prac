@@ -1,4 +1,4 @@
-package practice;
+package practice.practice.src.main.java.practice;
 
 public class findAllChar {
 	public static int findAstring(String s, char ch) {

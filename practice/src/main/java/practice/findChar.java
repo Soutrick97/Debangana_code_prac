@@ -1,4 +1,4 @@
-package practice;
+package practice.practice.src.main.java.practice;
 class findChar{
 	public static int findAstring(String s, char ch) {
 		int n= s.length();
